@@ -55,10 +55,11 @@ article {
 
 h3 {
     font-weight: 900;
-    font-size: 22px;
-    line-height: 29px;
+    font-size: 28px;
+    line-height: 37px;
     color: #1F2E55;
     margin-bottom: 16px;
+
 }
 
 article>p {
@@ -74,7 +75,7 @@ article>div {
     height: 98px;
     padding: 25px 24px;
     margin-bottom: 32px;
-border-radius: 11px;
+    border-radius: 11px;
 }
 
 article>div div {
@@ -102,11 +103,11 @@ article>div div {
 
 article>div a {
     margin-left: auto;
-font-weight: 700;
-font-size: 14px;
-line-height: 19px;
-text-decoration-line: underline;
-color: #382AE1;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #382AE1;
 }
 
 button {
